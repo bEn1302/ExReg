@@ -139,6 +139,30 @@ section.about .desc p {
   margin: 0 auto;
 }
 
+/* Information section */
+section.information .text-information {
+  padding: 134px 0;
+}
+
+section.information h5 {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 48px;
+  color: var(--black);
+}
+
+section.information p {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  color: var(--gray-1);
+  padding-top: 20px;
+}
+
+section.information .info-1 {
+  padding: 183px 0;
+}
+
 /* Footer section */
 footer {
   padding-top: 279px;
